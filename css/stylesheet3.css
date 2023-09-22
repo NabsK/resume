@@ -8,8 +8,8 @@ body {
 }
 
 header {
-  background-image: url("images\bricks.jpg");
-  background-color: #008bc8;
+  background-image: url("/images/bricks.jpg");
+  /* background-color: #008bc8; */
   margin-bottom: 1%;
   padding: 2%;
   border: 2px solid #008bc8;
